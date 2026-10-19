@@ -27,3 +27,22 @@ body {
     text-decoration: none;
     margin: 10px;
 }
+.main {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.hero,
+.about {
+    background: white;
+    padding: 30px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    line-height: 1.8;
+}
+
+.hero h2,
+.about h2 {
+    margin-bottom: 15px;
+}
