@@ -46,3 +46,9 @@ body {
 .about h2 {
     margin-bottom: 15px;
 }
+.footer {
+    background: #252542;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
